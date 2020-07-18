@@ -1,0 +1,36 @@
+.exper{
+   font-family: Arial,serif;	
+}
+#exp{
+	font-size: 30px;
+	margin-left: 85px;
+}
+#rf,#cr{
+	color: SlateBlue;
+	text-align: center;
+	display:inline-block;
+	font-weight: bold;
+	font-size: 15px
+}
+#rf1{
+	color: green;
+	text-align: center;
+	display: block;
+}
+
+
+button{
+	margin-left: 100px;
+	align :center;
+}
+#fm1{
+	display: block;
+	font-size: 30px;
+	font-weight: bold;
+	color:black;
+	font-family: "Arial", serif;
+}
+span{
+	display: block;
+	text-align: center;
+}
